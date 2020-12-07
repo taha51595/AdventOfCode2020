@@ -1,0 +1,11 @@
+{
+    "name": "AdventOfCode2020",
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+        "eslint": "^7.15.0",
+        "eslint-config-airbnb": "^18.2.1"
+    },
+    "author": "Cory Bridewell",
+    "license": "UNLICENSED"
+}
